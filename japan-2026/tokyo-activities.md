@@ -4,6 +4,7 @@
 **Key:** ☀️ fine-weather group · ☔ wet-weather group (works in rain) · 📷 photography · 🏛 history/museum · 🥾 walk · 🏞 views · 📜 link to a historic print or painting
 Every group here is **top** priority. Backups are at the bottom. Place names link to Google Maps.
 Photos (tap one for its source) are from Wikimedia Commons; see [photo credits](photos/CREDITS.md).
+NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 
 **Day-of-week traps:**
 - Most museums and gardens close on **Mondays** (Tokyo Mondays: 19 Oct, 2 Nov). Use Mondays for hikes and day trips.
@@ -45,7 +46,7 @@ Photos (tap one for its source) are from Wikimedia Commons; see [photo credits](
 
 *Fuji from Mt Takao's summit · A tengu guardian at Yakuo-in*
 
-- **[Mount Takao](https://maps.google.com/?cid=14341444200467673055)**: Tokyo's favourite hiking mountain. Walk up Trail 1 (paved) or Trail 6 (a stream path), about 1.5–2 h, or take the cable car (about ¥500) part of the way and walk the rest.
+- **[Mount Takao](https://maps.google.com/?cid=14341444200467673055)**: Tokyo's favourite hiking mountain. Walk up Trail 1 (paved) or Trail 6 (a stream path), about 1.5–2 h, or take the cable car (about ¥500 (~NZ$6)) part of the way and walk the rest.
 - **[Yakuo-in](https://www.google.com/maps/search/?api=1&query=Yakuoin+Yukiji+Takao)**: a mountain temple guarded by statues of *tengu* (long-nosed mountain spirits), which is unusual.
 - Fuji from the summit on a clear morning. Autumn colour starts in early November, with the peak mid to late November.
 - **Getting there:** Keio Line from Shinjuku, about 50 min.
@@ -97,11 +98,11 @@ The scramble outside Shibuya station's Hachiko exit, the crossing in all the sto
 
 | Viewpoint | View | Cost | Hours | Notes |
 |---|---|---|---|---|
-| **[MAG8 rooftop](https://www.google.com/maps/search/?api=1&query=MAG8+Crossing+View+Magnet+by+Shibuya109)** (Magnet by Shibuya109, rooftop) | Looking straight down onto the crossing, the classic shot | ¥1,800 incl. one drink (up to ¥300 off online). **Cards and e-money only, no cash** | 10:00–22:00, last entry 21:30 | **Best for photos.** Open air, but you shoot through clear panels. Optional "drone photo" camera ¥1,500 for 150 s. Reopened after renovation 3 Mar 2026. |
-| **[Starbucks, Shibuya Tsutaya 2F](https://www.google.com/maps/search/?api=1&query=Starbucks+Coffee+Shibuya+Tsutaya)** | Close and head-on, through glass, from 2 floors up | Price of a drink (about ¥500–800) | 7:00–22:30 | **Yes, it's fine to go up for the view.** The 2024 redesign deliberately set the seats back from the window so people can walk up, look and take photos. Buy a drink as a courtesy. Window seats are scarce: go early morning or late evening. |
+| **[MAG8 rooftop](https://www.google.com/maps/search/?api=1&query=MAG8+Crossing+View+Magnet+by+Shibuya109)** (Magnet by Shibuya109, rooftop) | Looking straight down onto the crossing, the classic shot | ¥1,800 (~NZ$20) incl. one drink (up to ¥300 (~NZ$3) off online). **Cards and e-money only, no cash** | 10:00–22:00, last entry 21:30 | **Best for photos.** Open air, but you shoot through clear panels. Optional "drone photo" camera ¥1,500 (~NZ$17) for 150 s. Reopened after renovation 3 Mar 2026. |
+| **[Starbucks, Shibuya Tsutaya 2F](https://www.google.com/maps/search/?api=1&query=Starbucks+Coffee+Shibuya+Tsutaya)** | Close and head-on, through glass, from 2 floors up | Price of a drink (about ¥500–800 (~NZ$6–9)) | 7:00–22:30 | **Yes, it's fine to go up for the view.** The 2024 redesign deliberately set the seats back from the window so people can walk up, look and take photos. Buy a drink as a courtesy. Window seats are scarce: go early morning or late evening. |
 | **[L'Occitane Café](https://www.google.com/maps/search/?api=1&query=L%27Occitane+Cafe+Shibuya)** (Shibuya Ekimae Building 2–3F) | Close, on the corner of the crossing, slightly elevated | Price of a drink | 10:00–23:00 (last order 22:00) | Calmer than Starbucks. **(check it's still open)** |
 | **[Mark City walkway](https://www.google.com/maps/search/?api=1&query=Myth+of+Tomorrow+Shibuya+Mark+City)** (station to Mark City, past Okamoto Taro's *Myth of Tomorrow* mural) | Side-on, through glass | Free | Station hours | A modest view, but free and worth a look on the way through. The mural is worth seeing too. |
-| **[Shibuya Sky](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky)** (Scramble Square rooftop, 230 m) | The crossing is tiny far below, but you get the whole city, and Fuji on clear days | Web: about ¥2,700 before 15:00, ¥3,400 from 15:00; ¥300 more at the counter **(check)** | 10:00–22:30, last entry 21:20 | Timed tickets. **Sunset slots sell out**, so book as soon as they open (about 2–4 weeks ahead). The rooftop closes in bad weather. No tripods or selfie sticks. |
+| **[Shibuya Sky](https://www.google.com/maps/search/?api=1&query=Shibuya+Sky)** (Scramble Square rooftop, 230 m) | The crossing is tiny far below, but you get the whole city, and Fuji on clear days | Web: about ¥2,700 (~NZ$30) before 15:00, ¥3,400 (~NZ$38) from 15:00; ¥300 (~NZ$3) more at the counter **(check)** | 10:00–22:30, last entry 21:20 | Timed tickets. **Sunset slots sell out**, so book as soon as they open (about 2–4 weeks ahead). The rooftop closes in bad weather. No tripods or selfie sticks. |
 
 **Suggested evening:** sunset at Shibuya Sky, then down to street level to walk the crossing, then MAG8 after dark for the lit-up view from above. Or for a cheaper version, Starbucks at breakfast and the Mark City walkway.
 

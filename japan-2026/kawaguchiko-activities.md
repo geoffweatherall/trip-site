@@ -4,12 +4,13 @@
 **Key:** ☀️ fine-weather group · ☔ wet-weather group (works in rain) · 📷 photography · 🏛 history/museum · 🥾 walk · 🏞 views · 📜 link to a historic print, painting or writer
 Every group here is **top** priority. Backups are at the bottom. Place names link to Google Maps.
 Photos (tap one for its source) are from Wikimedia Commons; see [photo credits](photos/CREDITS.md).
+NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 
 **Fuji visibility** is best early in the morning, and clouds often build by midday. Check the forecast or a Fuji live camera each evening, and **put the Fuji groups (#1–#3) on the clearest mornings.**
 
 **Transport:**
 - Red, Green and Blue sightseeing buses run from the station, and the Fujikko bus goes to Oshino and Yamanaka.
-- The **Fujikyu Rail & Bus Pass (2 days, ¥4,700)** covers the Fujikyu trains and all of those buses.
+- The **Fujikyu Rail & Bus Pass (2 days, ¥4,700 (~NZ$53))** covers the Fujikyu trains and all of those buses.
 
 ---
 
