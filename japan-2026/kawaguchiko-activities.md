@@ -3,6 +3,7 @@
 
 **Key:** ☀️ fine-weather group · ☔ wet-weather group (works in rain) · 📷 photography · 🏛 history/museum · 🥾 walk · 🏞 views · 📜 link to a historic print, painting or writer
 Every group here is **top** priority. Backups are at the bottom. Place names link to Google Maps.
+Background reading: [Ukiyo-e landscape prints, their viewpoints and where to see them](ukiyo-e.md).
 Photos (tap one for its source) are from Wikimedia Commons; see [photo credits](photos/CREDITS.md).
 NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 

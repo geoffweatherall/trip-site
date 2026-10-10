@@ -1,2 +1,8 @@
 title: Trips
 description: Activity ideas for our trips
+defaults:
+  - scope:
+      path: "japan-2026"
+    values:
+      trip_title: "Japan 2026"
+      trip_home: "/japan-2026/"

@@ -5,3 +5,8 @@ Activity ideas for each place we're visiting, split into fine-weather and wet-we
 - [Tokyo (including day trips)](tokyo-activities.md)
 - [Nikko](nikko-activities.md)
 - [Kawaguchiko (Fuji Five Lakes)](kawaguchiko-activities.md)
+
+**Guides**
+- [Ukiyo-e: Japan's landscape prints](ukiyo-e.md): Hokusai and Hiroshige, the viewpoints near our route, and where to see the prints
+
+[All trips](../)

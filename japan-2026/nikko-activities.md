@@ -3,6 +3,7 @@
 
 **Key:** ☀️ fine-weather group · ☔ wet-weather group (works in rain) · 📷 photography · 🏛 history/museum · 🥾 walk · 🏞 views · 📜 link to a historic print, painting or writer
 Every group here is **top** priority. Backups are at the bottom. Place names link to Google Maps.
+Background reading: [Ukiyo-e landscape prints, their viewpoints and where to see them](ukiyo-e.md).
 Photos (tap one for its source) are from Wikimedia Commons; see [photo credits](photos/CREDITS.md).
 
 **Autumn colour:** the forecast peak around Lake Chuzenji and Kegon Falls is **18 Oct – 1 Nov**, right on our dates. The high marsh (Senjogahara) peaks earlier and may be fading. The town and shrines peak in early November, so they'll be mostly green. **Save the clearest day for the lake (#1).**
