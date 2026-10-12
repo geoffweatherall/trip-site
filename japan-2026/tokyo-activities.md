@@ -32,22 +32,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **Audio walk:** **[Kamakura: Temples & Timeless Charm](https://wegotrip.com/kamakura-d1195/explore-kamakuras-heritage-a-self-guided-audio-tour-p10671/)** (WeGoTrip app): about 6 km, 2–3 h, GPS map, works offline once downloaded. About €10 **(check)**.
 - **Time:** full day, on a weekday.
 
-### 2. Hakone: the old Tokaido road and Lake Ashi (day trip) 📷🏛🥾🏞📜
-<p><a href="https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg"><img src="photos/tokyo-2a.jpg" width="32%" alt="Lake Ashi with Fuji, and Hakone Shrine&#x27;s torii on the shore" title="Lake Ashi with Fuji, and Hakone Shrine&#x27;s torii on the shore. Photo: Charlie fong, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Amazake-cyaya_01.jpg"><img src="photos/tokyo-2b.jpg" width="32%" alt="Amazake-chaya, the thatched teahouse on the old Tokaido road" title="Amazake-chaya, the thatched teahouse on the old Tokaido road. Photo: Aimaimyi, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Hakone_No._11._Hakone_one_of_the_fifty-three_noted_places_on_Tokaido._Painted_by_Hiroshige_(titel_op_object)_De_T%C3%B4kaid%C3%B4_van_Hiroshige_(serietitel)_Hiroshige_no_fude_T%C3%B4kaid%C3%B4_(serietitel_op_object),_RP-P-2010-310-95-11.jpg"><img src="photos/tokyo-2c.jpg" width="32%" alt="Hiroshige, Hakone (Fifty-three Stations of the Tokaido)" title="Hiroshige, Hakone (Fifty-three Stations of the Tokaido). Photo: Rijksmuseum, CC0"></a></p>
-
-*Lake Ashi with Fuji, and Hakone Shrine's torii on the shore · Amazake-chaya, the thatched teahouse on the old Tokaido road · Hiroshige, Hakone (Fifty-three Stations of the Tokaido)*
-
-- **[Old Tokaido road](https://www.google.com/maps/search/?api=1&query=Old+Tokaido+Road+Hakone+stone+pavement)**: the best-preserved stretch of the Edo-period highway between Edo and Kyoto, with original stone paving under cedars. Walk **Hatajuku → Moto-Hakone (75–100 min)**, mostly uphill, or the reverse, mostly downhill.
-- **[Amazake-chaya](https://www.google.com/maps/search/?api=1&query=Amazake-chaya+Hakone)**: a thatched teahouse that has served travellers on this road for over 350 years. Have amazake and mochi there.
-- **[Hakone Checkpoint (Sekisho)](https://www.google.com/maps/search/?api=1&query=Hakone+Sekisho)**: a reconstruction of the Edo checkpoint where travellers' papers were inspected. It's on the lakeshore, next to the old **cedar avenue**.
-- **[Lake Ashi](https://maps.google.com/?cid=5294609115739185867)** and the **[Hakone Shrine lakeside torii](https://www.google.com/maps/search/?api=1&query=Hakone+Shrine+Torii+of+Peace)**: Fuji over the lake on clear days.
-- 📜 **History link:** Hiroshige's *Fifty-three Stations of the Tokaido* has a Hakone print. The road we'd walk is the road in those prints.
-- **Getting there:** prices are approximate **(check)**. Train is the easier option.
-  - **By train (recommended):** buy the Odakyu *Hakone Freepass* (2-day, from Shinjuku) for ¥7,100 (~NZ$78) each. It covers the train to Hakone and back, the local buses, the lake boat and the ropeway. The **Romancecar** limited express from Shinjuku to Hakone-Yumoto takes about 85 min and costs an extra ¥1,200 (~NZ$13) each way for a reserved seat. Book it ahead. It's then about 20 min by bus to Hatajuku. Allow about 2 h door to door. **For two: about ¥19,000 (~NZ$209)** with the Romancecar both ways, or ¥14,200 (~NZ$156) on ordinary expresses, which take about 2 h to Hakone-Yumoto with a change at Odawara.
-  - **By car:** about 90 km, **1.5–2 h each way** by the Tomei Expressway and the Odawara-Atsugi Road. Expect much longer on weekends and in autumn-colour traffic. Costs: tolls about ¥2,500–4,000 each way, fuel about ¥3,000 and parking about ¥1,000–2,000. **For the car: about ¥9,000–13,000 (~NZ$100–145)**, and the lake boat (about ¥1,200, ~NZ$13 each one way) and ropeway are extra. You need an International Driving Permit (from the AA) with your NZ licence. A car also fits badly with the one-way old-road walk, because you have to come back to it.
-- **Time:** long full day. Leave early.
-
-### 3. Mt Takao (day trip) 🥾🏞📷
+### 2. Mt Takao (day trip) 🥾🏞📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Views_of_Mt_Fuji_from_near_the_summit_of_Mt_Takao..jpg"><img src="photos/tokyo-3a.jpg" width="32%" alt="Fuji from Mt Takao&#x27;s summit" title="Fuji from Mt Takao&#x27;s summit. Photo: Tobihino1977, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:Tengu_@_Shinto_shrine_@_Mount_Takao_(9876464715).jpg"><img src="photos/tokyo-3b.jpg" width="32%" alt="A tengu guardian at Yakuo-in" title="A tengu guardian at Yakuo-in. Photo: Guilhem Vellut from Annecy, France, CC BY 2.0"></a></p>
 
 *Fuji from Mt Takao's summit · A tengu guardian at Yakuo-in*
@@ -58,7 +43,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **Getting there:** Keio Line from Shinjuku, about 50 min.
 - **Time:** most of a day. Good for a Monday.
 
-### 4. Edo heart: Nihonbashi and Edo Castle (print walk) 📜🏛🥾📷
+### 3. Edo heart: Nihonbashi and Edo Castle (print walk) 📜🏛🥾📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Imperial_Palace_Tokyo_Tenshudai_Donjon_base.jpg"><img src="photos/tokyo-4a.jpg" width="32%" alt="The stone base of Edo Castle&#x27;s keep, in the East Gardens" title="The stone base of Edo Castle&#x27;s keep, in the East Gardens. Photo: unknown, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Nihonbashi_12.jpg"><img src="photos/tokyo-4b.jpg" width="32%" alt="Nihonbashi bridge, under the expressway" title="Nihonbashi bridge, under the expressway. Photo: Aimaimyi, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Suruga-cho_LACMA_M.73.75.26.jpg"><img src="photos/tokyo-4c.jpg" width="32%" alt="Hiroshige, Suruga-cho: the Echigoya (now Mitsukoshi) street with Fuji" title="Hiroshige, Suruga-cho: the Echigoya (now Mitsukoshi) street with Fuji. Photo: Utagawa Hiroshige (Japan, Edo, 1797-1858), Public domain"></a></p>
 
 *The stone base of Edo Castle's keep, in the East Gardens · Nihonbashi bridge, under the expressway · Hiroshige, Suruga-cho: the Echigoya (now Mitsukoshi) street with Fuji*
@@ -71,9 +56,9 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **Audio guides (GPS-triggered, like Rick Steves' walks):** download both over Wi-Fi before going. They play offline.
   - **[Everlasting Edo: A Guide to Nihonbashi's History](https://voicemap.me/tour/tokyo/everlasting-edo-a-guide-to-nihonbashi-s-history)** (VoiceMap app): about 2 km, 1 h and 29 stops. It starts at the Nihonbashi pier and takes in the bridge, the zero-milestone marker, the Bank of Japan and Mitsukoshi. A Tokyo local wrote it and a professional narrator reads it. About US$12–15 **(check)**. One reviewer had trouble with the unlock code, so buy it a day early.
   - **[Imperial Palaces Guide](https://www.kunaicho.go.jp/en/visit/guide/app.html)**: the Imperial Household Agency's free official app, in English. It covers the East Gardens (the Edo Castle keep base, gates and guardhouses) and tells you when you reach each spot.
-- **Time:** half to full day. Pairs well with **#9**, which has the Edo-Tokyo Museum's full-size Nihonbashi replica and the prints themselves. See those first, then walk the real places.
+- **Time:** half to full day. Pairs well with **#10**, which has the Edo-Tokyo Museum's full-size Nihonbashi replica and the prints themselves. See those first, then walk the real places.
 
-### 5. Asakusa and the Sumida River 📷🏛📜
+### 4. Asakusa and the Sumida River 📷🏛📜
 <p><a href="https://commons.wikimedia.org/wiki/File:Kaminarimon_Gate_of_Sensoji_Temple_2.JPG"><img src="photos/tokyo-5a.jpg" width="32%" alt="Senso-ji&#x27;s Kaminarimon gate" title="Senso-ji&#x27;s Kaminarimon gate. Photo: そらみみ (Soramimi), CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Five-storied_Pagoda,_Sens%C5%8D-ji_Temple,_Asakusa_(53416862403).jpg"><img src="photos/tokyo-5b.jpg" width="32%" alt="Senso-ji&#x27;s pagoda after dark" title="Senso-ji&#x27;s pagoda after dark. Photo: Stephen Kelly from San Francisco, CA, USA, CC BY 2.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Nakajima-no-ochaya_110925_2.jpg"><img src="photos/tokyo-5c.jpg" width="32%" alt="The teahouse on the pond at Hama-rikyu" title="The teahouse on the pond at Hama-rikyu. Photo: Ulf Klingström, CC0"></a></p>
 
 *Senso-ji's Kaminarimon gate · Senso-ji's pagoda after dark · The teahouse on the pond at Hama-rikyu*
@@ -83,10 +68,10 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Sumida River water bus](https://www.google.com/maps/search/?api=1&query=Asakusa+Pier+Tokyo+Cruise)** from Asakusa downriver to **[Hama-rikyu Gardens](https://www.google.com/maps/search/?api=1&query=Hama-rikyu+Gardens)**, the shogun's seaside garden with a teahouse on the pond.
 - Optional: **[Tokyo Skytree](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree)** deck across the river (paid).
 - **Getting there:** Ginza Line from Shibuya, direct to Asakusa.
-- **Audio walk:** **[Secrets of Sensoji: A Tour of Asakusa's History, Art and Culture](https://voicemap.me/tour/tokyo/secrets-of-sensoji-temple-a-tour-of-asakusa-s-history-art-and-culture)** (VoiceMap app, by the same local company as the Nihonbashi walk in #4): 90 min, about 2 km, 34 stops. About US$15 **(check)**.
-- **Time:** full day. Ryogoku (**#9**) is 10 minutes away if the weather turns.
+- **Audio walk:** **[Secrets of Sensoji: A Tour of Asakusa's History, Art and Culture](https://voicemap.me/tour/tokyo/secrets-of-sensoji-temple-a-tour-of-asakusa-s-history-art-and-culture)** (VoiceMap app, by the same local company as the Nihonbashi walk in #3): 90 min, about 2 km, 34 stops. About US$15 **(check)**.
+- **Time:** full day. Ryogoku (**#10**) is 10 minutes away if the weather turns.
 
-### 6. Views over Tokyo: free observation decks (plus Shinjuku Gyoen) 🏞📷
+### 5. Views over Tokyo: free observation decks (plus Shinjuku Gyoen) 🏞📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Fujisan_20070311.jpg"><img src="photos/tokyo-6a.jpg" width="32%" alt="Fuji at sunset from the Metropolitan Government Building" title="Fuji at sunset from the Metropolitan Government Building. Photo: Kure, CC BY-SA 2.5"></a> <a href="https://commons.wikimedia.org/wiki/File:Shinjuku_Gyoen_autumn_season.jpg"><img src="photos/tokyo-6b.jpg" width="32%" alt="Shinjuku Gyoen in autumn" title="Shinjuku Gyoen in autumn. Photo: Terabita34, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Shibuya_scramble_square_sky_rooftop_couches_(48995414602).jpg"><img src="photos/tokyo-6c.jpg" width="32%" alt="Shibuya Sky&#x27;s rooftop deck" title="Shibuya Sky&#x27;s rooftop deck. Photo: Real Estate Japan from Tokyo, Japan, CC BY 2.0"></a></p>
 
 *Fuji at sunset from the Metropolitan Government Building · Shinjuku Gyoen in autumn · Shibuya Sky's rooftop deck*
@@ -116,7 +101,7 @@ The scramble outside Shibuya station's Hachiko exit, the crossing in all the sto
 
 **Suggested evening:** sunset at Shibuya Sky, then down to street level to walk the crossing, then MAG8 after dark for the lit-up view from above. Or for a cheaper version, Starbucks at breakfast and the Mark City walkway.
 
-### 7. Setagaya green walk: Todoroki Ravine to Jiyugaoka 🥾📷🏛
+### 6. Setagaya green walk: Todoroki Ravine to Jiyugaoka 🥾📷🏛
 <p><a href="https://commons.wikimedia.org/wiki/File:Fudo_no_Taki_(Todoroki_Valley)_201908.jpg"><img src="photos/tokyo-7a.jpg" width="32%" alt="Todoroki Ravine" title="Todoroki Ravine. Photo: Suikotei, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Fudo_no_Taki_shrine_-_Todoroki_Valley_-_Tokyo,_Japan_-_DSC09484.jpg"><img src="photos/tokyo-7b.jpg" width="32%" alt="Todoroki Fudo shrine by the waterfall" title="Todoroki Fudo shrine by the waterfall. Photo: Daderot, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:Joshinji_Sanbutsudo.jpg"><img src="photos/tokyo-7c.jpg" width="32%" alt="Kuhonbutsu Joshin-ji" title="Kuhonbutsu Joshin-ji. Photo: Suikotei, CC BY-SA 4.0"></a></p>
 
 *Todoroki Ravine · Todoroki Fudo shrine by the waterfall · Kuhonbutsu Joshin-ji*
@@ -128,7 +113,7 @@ The scramble outside Shibuya station's Hachiko exit, the crossing in all the sto
 - **Getting there:** Tokyu Den-en-toshi Line from Shibuya, changing to the Oimachi Line.
 - **Time:** half to full day, with 2–3 h of easy walking.
 
-### 11. Gōtoku-ji and Shimokitazawa (via the Setagaya tram) 📷🏛🥾
+### 7. Gōtoku-ji and Shimokitazawa (via the Setagaya tram) 📷🏛🥾
 <p><a href="https://commons.wikimedia.org/wiki/File:Shelves_of_maneki-neko_in_Gotokuji.jpg"><img src="photos/tokyo-gotokuji-a.jpg" width="32%" alt="Shelves of maneki-neko lucky cats at Gōtoku-ji" title="Shelves of maneki-neko at Gōtoku-ji. Ménestor, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:Walk_in_Shimokitazawa_3.jpg"><img src="photos/tokyo-shimokita-a.jpg" width="32%" alt="A street in Shimokitazawa" title="Shimokitazawa&#x27;s streets. Syced, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:Tokyo_Setagaya_Line_Tram_in_2024.jpg"><img src="photos/tokyo-setagayaline-a.jpg" width="32%" alt="A cat-themed Setagaya Line tram" title="A maneki-neko themed Setagaya Line tram near Miyanosaka. mszczk, CC BY-SA 4.0"></a></p>
 
 *Shelves of maneki-neko at Gōtoku-ji · Shimokitazawa's streets · A maneki-neko themed Setagaya Line tram*
@@ -141,7 +126,7 @@ The scramble outside Shibuya station's Hachiko exit, the crossing in all the sto
 - **Best day:** a **weekday afternoon**. Shimokitazawa is packed on Saturdays and Sundays, and the shops are shut in the early morning.
 - **Time:** half a day, with 2–3 h of easy walking.
 
-### 12. Meiji Jingu and Yoyogi Park (next to base) 📷🏛🥾
+### 8. Meiji Jingu and Yoyogi Park (next to base) 📷🏛🥾
 <p><a href="https://commons.wikimedia.org/wiki/File:Meiji-jingu_Torii_1.jpg"><img src="photos/tokyo-meiji-a.jpg" width="32%" alt="The great wooden torii at the entrance to Meiji Jingu" title="The great torii of Meiji Jingu. Zairon, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Meiji-jingu_wedding_procession_-_P1000847.jpg"><img src="photos/tokyo-meiji-b.jpg" width="32%" alt="A Shinto wedding procession at Meiji Jingu" title="A Shinto wedding procession at Meiji Jingu. Shinichi Sugiyama (chez_sugi) from tokyo, japan, CC BY-SA 2.0"></a></p>
 
 *The great torii of Meiji Jingu · A Shinto wedding procession at Meiji Jingu*
@@ -159,7 +144,7 @@ The scramble outside Shibuya station's Hachiko exit, the crossing in all the sto
 
 ## ☔ Wet-weather groups
 
-### 8. Ueno Park museums and the Moon Pine 🏛📜📷
+### 9. Ueno Park museums and the Moon Pine 🏛📜📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Tokyo,_Mus%C3%A9e_national_.-_Samurai_do-maru.jpg"><img src="photos/tokyo-8a.jpg" width="32%" alt="Samurai armour at the Tokyo National Museum" title="Samurai armour at the Tokyo National Museum. Photo: Pierre André Leclercq, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:KiyomizuKannondo_05.JPG"><img src="photos/tokyo-8b.jpg" width="32%" alt="The Moon Pine at Kiyomizu Kannon-do today" title="The Moon Pine at Kiyomizu Kannon-do today. Photo: Tak1701d, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Ueno_sannai_tsuki_no_matsu_LCCN2008660968.jpg"><img src="photos/tokyo-8c.jpg" width="32%" alt="Hiroshige&#x27;s Moon Pine print, from the same spot" title="Hiroshige&#x27;s Moon Pine print, from the same spot. Photo: Andō, Hiroshige, 1797-1858, artist, Public domain"></a></p>
 
 *Samurai armour at the Tokyo National Museum · The Moon Pine at Kiyomizu Kannon-do today · Hiroshige's Moon Pine print, from the same spot*
@@ -169,16 +154,16 @@ The scramble outside Shibuya station's Hachiko exit, the crossing in all the sto
 - Also here: **[National Museum of Western Art](https://maps.google.com/?cid=13484864514866363531)**, **[Tokyo Metropolitan Art Museum](https://maps.google.com/?cid=9518604028842126160)**, and Shinobazu Pond.
 - **Getting there:** Chiyoda Line from Yoyogi-koen to Nezu or Yushima, direct.
 
-### 9. Ryogoku: Edo-Tokyo Museum and Hokusai Museum 🏛📜
+### 10. Ryogoku: Edo-Tokyo Museum and Hokusai Museum 🏛📜
 <p><a href="https://commons.wikimedia.org/wiki/File:Exhibits_at_Edo_Tokyo_Museum_-_Dec_3_2021_various_21_01_42_475000.jpeg"><img src="photos/tokyo-9a.jpg" width="32%" alt="The full-size Nihonbashi replica in the Edo-Tokyo Museum" title="The full-size Nihonbashi replica in the Edo-Tokyo Museum. Photo: Nesnad, CC BY 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Edo-Tokyo_Museum_-_lifesize_replica_of_the_Nakamura-za_kabuki_theater_02.jpg"><img src="photos/tokyo-9b.jpg" width="32%" alt="The museum&#x27;s kabuki theatre" title="The museum&#x27;s kabuki theatre. Photo: Joe Mabel on Flickr as Joe Mabel from Seattle, US, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:2018_Sumida_Hokusai_Museum_3.jpg"><img src="photos/tokyo-9c.jpg" width="32%" alt="Sumida Hokusai Museum" title="Sumida Hokusai Museum. Photo: Kakidai, CC BY-SA 4.0"></a></p>
 
 *The full-size Nihonbashi replica in the Edo-Tokyo Museum · The museum's kabuki theatre · Sumida Hokusai Museum*
 
 - **[Edo-Tokyo Museum](https://www.google.com/maps/search/?api=1&query=Edo-Tokyo+Museum)**: reopened 31 Mar 2026 after a 4-year renovation. It has a full-size replica of half of Nihonbashi bridge, models of Edo streets, and kabuki. Closed Mondays.
 - **[Sumida Hokusai Museum](https://www.google.com/maps/search/?api=1&query=Sumida+Hokusai+Museum)**: in the district where Hokusai was born. A good place to see his prints before chasing the views. Closed Mondays.
-- **Getting there:** Oedo Line or JR Sobu Line to Ryogoku. 10 minutes from Asakusa (**#5**).
+- **Getting there:** Oedo Line or JR Sobu Line to Ryogoku. 10 minutes from Asakusa (**#4**).
 
-### 10. Kawagoe, "Little Edo" (day trip) 🏛📷📜
+### 11. Kawagoe, "Little Edo" (day trip) 🏛📷📜
 <p><a href="https://commons.wikimedia.org/wiki/File:Kawagoe_Toki_no_Kane_5.jpg"><img src="photos/tokyo-10a.jpg" width="32%" alt="Toki-no-Kane bell tower" title="Toki-no-Kane bell tower. Photo: Zairon, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Kawagoe_Toki_no_Kane_3.jpg"><img src="photos/tokyo-10b.jpg" width="32%" alt="Kurazukuri Street&#x27;s clay-walled warehouses" title="Kurazukuri Street&#x27;s clay-walled warehouses. Photo: Zairon, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Gohyaku_Rakan.jpg"><img src="photos/tokyo-10c.jpg" width="32%" alt="Kita-in&#x27;s 540 rakan statues" title="Kita-in&#x27;s 540 rakan statues. Photo: w00kie（https://www.flickr.com/photos/w00kie/）, CC BY 2.0"></a></p>
 
 *Toki-no-Kane bell tower · Kurazukuri Street's clay-walled warehouses · Kita-in's 540 rakan statues*
@@ -190,7 +175,7 @@ Mostly outdoors, but fine in light rain.
 - **Getting there:** Seibu Shinjuku Line from Seibu-Shinjuku, or Tobu Tojo Line from Ikebukuro, about 1 h. Day passes are available **(check)**.
 
 
-### 13. Tojo Museum of History, Matsudo (day trip) 🏛📜📷
+### 12. Tojo Museum of History, Matsudo (day trip) 🏛📜📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Tojo-tei_01.jpg"><img src="photos/tokyo-tojo-a.jpg" width="32%" alt="The thatched gate of Tojo-tei" title="The thatched gate of Tojo-tei, Matsudo. Suikotei, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Tojo_tei_2009.jpg"><img src="photos/tokyo-tojo-b.jpg" width="32%" alt="Tojo-tei, the Tokugawa family house in Matsudo" title="Tojo-tei (built 1884), the Tokugawa family house. Wiiii, CC BY-SA 3.0"></a></p>
 
 *The thatched gate of Tojo-tei · Tojo-tei, built in 1884*
@@ -207,7 +192,7 @@ Mostly outdoors, but fine in light rain.
 
 ## Extra picks
 
-**Most of these are already placed.** The ones not already in the lists are now in the main list (#11 to #13) or the backups below, and the table shows where each one is. The only one that was new is the **National Noh Theatre** (T1).
+**Most of these are already placed.** The ones not already in the lists are now in the main list (#7, #8 and #12) or the backups below, and the table shows where each one is. The only one that was new is the **National Noh Theatre** (T1).
 
 | Pick | Where it is now |
 |---|---|
@@ -217,21 +202,21 @@ Mostly outdoors, but fine in light rain.
 | Jōrin-ji, next to the Yayoi Kusama Museum | Backup, wet weather |
 | Samurai Restaurant (show) | Backup, wet weather |
 | Yodobashi Fujisawa Camera Museum | Backup, wet weather |
-| Shinjuku Gyoen | Main list, **#6** |
+| Shinjuku Gyoen | Main list, **#5** |
 | Ōta Memorial Museum of Art | Backup, wet weather |
 | PARCO Museum Tokyo | Backup, wet weather |
-| Tojo Museum of History | Main list, **#13** (moved up) |
+| Tojo Museum of History | Main list, **#12** (moved up) |
 | Komaba Museum, University of Tokyo | Backup, wet weather |
 | Shōtō Museum of Art | Backup, wet weather |
-| Shimokitazawa | Main list, **#11** (moved up) |
+| Shimokitazawa | Main list, **#7** (moved up) |
 | Showa Era Lifestyle Museum (Fri–Sun only) | Backup, wet weather |
-| Gōtoku-ji (lucky cat shrine) | Main list, **#11** (moved up) |
+| Gōtoku-ji (lucky cat shrine) | Main list, **#7** (moved up) |
 | Art Aquarium Museum | Backup, wet weather |
 | Setagaya Art Museum (closed Mondays) | Backup, wet weather |
-| Meiji Shrine and park | Main list, **#12** (moved up) |
-| National Noh Theatre | New: **T1** below |
+| Meiji Shrine and park | Main list, **#8** (moved up) |
+| National Noh Theatre | New: **#13** below |
 
-### T1. National Noh Theatre (Sendagaya) ☔🏛📷
+### 13. National Noh Theatre (Sendagaya) ☔🏛📷
 <p><a href="https://commons.wikimedia.org/wiki/File:National_Noh_Theatre.JPG"><img src="photos/tokyo-noh-a.jpg" width="32%" alt="The National Noh Theatre building" title="The National Noh Theatre. Abasaa, Public domain"></a> <a href="https://commons.wikimedia.org/wiki/File:Noh-stage.jpg"><img src="photos/tokyo-noh-b.jpg" width="32%" alt="A Noh stage with its painted pine backdrop" title="A Noh stage, with its painted pine backdrop. unknown, Public domain"></a></p>
 
 *The National Noh Theatre · A Noh stage, with its painted pine backdrop*
@@ -241,7 +226,7 @@ Mostly outdoors, but fine in light rain.
 - **Cost:** tickets start from about ¥3,000 (~NZ$33), more for the better seats **(check, the data I found was old)**. Book through the National Theatre ticket centre, online or by phone.
 - **Hours:** Noh isn't on every day. The theatre has performances on only a handful of days each month, so check the schedule for our dates before planning around it **(check)**.
 - **Best day:** whichever day has a performance. There's nothing to see on the other days, so **don't just turn up**.
-- **Getting there:** 5 min walk from Sendagaya Station (JR Sobu Line). It's near Shinjuku Gyoen (#6) and the Meiji Jingu Gaien, so it pairs with either.
+- **Getting there:** 5 min walk from Sendagaya Station (JR Sobu Line). It's near Shinjuku Gyoen (#5) and the Meiji Jingu Gaien, so it pairs with either.
 - **Time:** a Noh programme usually runs about 2–3 h with a Kyogen comedy in the middle.
 
 ---
@@ -274,7 +259,7 @@ Zōjō-ji is the Tokugawa family temple, and its big hall with the red-and-white
 <p><a href="https://commons.wikimedia.org/wiki/File:Rikugien_Garden_@_Komagome_(11165852244).jpg"><img src="photos/tokyo-rikugien-b.jpg" width="32%" alt="Rikugien's pond in autumn colour" title="Rikugien&#x27;s pond in autumn colour. Guilhem Vellut from Annecy, France, CC BY 2.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Koishikawa_Korakuen_Gardens_(11168297536).jpg"><img src="photos/tokyo-korakuen-a.jpg" width="32%" alt="Koishikawa Korakuen in autumn" title="Koishikawa Korakuen in autumn, with the city beyond. Guilhem Vellut from Annecy, France, CC BY 2.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Rikugien_Garden_(9237965732).jpg"><img src="photos/tokyo-rikugien-a.jpg" width="32%" alt="A path in Rikugien" title="A path through Rikugien Garden. Guilhem Vellut from Annecy, France, CC BY 2.0"></a></p>
 *Rikugien's pond in autumn colour · Koishikawa Korakuen with the city beyond · A path in Rikugien*
 
-Two Edo-period lords' gardens. **Rikugien** is the more beautiful, laid out to echo scenes from famous poems. **Korakuen** has a rice paddy and a round-arched Chinese-style bridge, beside the Tokyo Dome and Bunkyo Civic Centre (#6). Pick one; each takes about 1–1.5 h.
+Two Edo-period lords' gardens. **Rikugien** is the more beautiful, laid out to echo scenes from famous poems. **Korakuen** has a rice paddy and a round-arched Chinese-style bridge, beside the Tokyo Dome and Bunkyo Civic Centre (#5). Pick one; each takes about 1–1.5 h.
 - **Cost:** ¥300 each (~NZ$3)
 - **Hours:** 9:00–17:00, last entry 16:30, open every day. Rikugien's night illumination runs 25 Nov – 6 Dec, so we'll miss it
 - **Best / avoid:** a **weekday morning**. Weekends are busier. Leaves usually peak late Nov – early Dec, so we'll catch only the start of colour **(check)**. Fine on a Monday.
@@ -400,7 +385,7 @@ A real 1951 family house kept as it was, with its furniture, kitchen and everyda
 <p><a href="https://commons.wikimedia.org/wiki/File:Tokorozawa_Aviation_Commemorative_Park.jpg"><img src="photos/tokyo-tokorozawa-a.jpg" width="32%" alt="An aircraft in Tokorozawa Aviation Memorial Park" title="An aircraft on display in Tokorozawa Aviation Memorial Park. Abasaa, Public domain"></a></p>
 *An aircraft on display in Tokorozawa Aviation Memorial Park*
 
-Japan's first airfield became a park with a museum of aviation history and a big lawn with aircraft on show. It's on the Seibu line out of Shinjuku, about 40 min **(check)**, so it may pair with Kawagoe (#10) on the same day.
+Japan's first airfield became a park with a museum of aviation history and a big lawn with aircraft on show. It's on the Seibu line out of Shinjuku, about 40 min **(check)**, so it may pair with Kawagoe (#11) on the same day.
 - **Cost:** the park is free; the museum about ¥510 (~NZ$6) **(check)**
 - **Hours:** 9:30–17:00, last entry 16:30. **Closed Mondays** (Tuesday if the Monday is a holiday)
 - **Best / avoid:** **Tuesday to Sunday**. **Avoid Mondays** (19 Oct, 2 Nov). Weekends are busy with families.
@@ -419,7 +404,26 @@ A small shrine to aviators who died in flight, which I understand is near the To
 A loud, costume-heavy show of samurai, dancers and drummers, with drinks or a light meal. It's touristy, but it's an easy fun hour, and the venue only admits adults. Listings show **daytime sessions** (about 10:30, 13:30 and 16:00), not only evening **(check)**.
 - **Cost:** about US$55–77 (~NZ$90–125) each on resale sites, with two drinks **(check the venue's own price)**. Extra food and drink are often cash only
 - **Hours:** sessions run about 1 h 40 min to 2 h 10 min **(check)**
-- **Best / avoid:** any day. A **weekday daytime** is easiest. Book ahead for weekends. Pairs with Shinjuku Gyoen or the Metropolitan Government Building (#6).
+- **Best / avoid:** any day. A **weekday daytime** is easiest. Book ahead for weekends. Pairs with Shinjuku Gyoen or the Metropolitan Government Building (#5).
+
+### Too big for a day trip
+
+Moved here from the main list: Hakone is more than a day trip. Avoid weekends.
+
+#### Hakone: the old Tokaido road and Lake Ashi 📷🏛🥾🏞📜
+<p><a href="https://commons.wikimedia.org/wiki/File:Lake_Ashi_%26_Mt_Fuji_%26_Hakone_Shrine.jpg"><img src="photos/tokyo-2a.jpg" width="32%" alt="Lake Ashi with Fuji, and Hakone Shrine&#x27;s torii on the shore" title="Lake Ashi with Fuji, and Hakone Shrine&#x27;s torii on the shore. Photo: Charlie fong, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Amazake-cyaya_01.jpg"><img src="photos/tokyo-2b.jpg" width="32%" alt="Amazake-chaya, the thatched teahouse on the old Tokaido road" title="Amazake-chaya, the thatched teahouse on the old Tokaido road. Photo: Aimaimyi, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Hakone_No._11._Hakone_one_of_the_fifty-three_noted_places_on_Tokaido._Painted_by_Hiroshige_(titel_op_object)_De_T%C3%B4kaid%C3%B4_van_Hiroshige_(serietitel)_Hiroshige_no_fude_T%C3%B4kaid%C3%B4_(serietitel_op_object),_RP-P-2010-310-95-11.jpg"><img src="photos/tokyo-2c.jpg" width="32%" alt="Hiroshige, Hakone (Fifty-three Stations of the Tokaido)" title="Hiroshige, Hakone (Fifty-three Stations of the Tokaido). Photo: Rijksmuseum, CC0"></a></p>
+
+*Lake Ashi with Fuji, and Hakone Shrine's torii on the shore · Amazake-chaya, the thatched teahouse on the old Tokaido road · Hiroshige, Hakone (Fifty-three Stations of the Tokaido)*
+
+- **[Old Tokaido road](https://www.google.com/maps/search/?api=1&query=Old+Tokaido+Road+Hakone+stone+pavement)**: the best-preserved stretch of the Edo-period highway between Edo and Kyoto, with original stone paving under cedars. Walk **Hatajuku → Moto-Hakone (75–100 min)**, mostly uphill, or the reverse, mostly downhill.
+- **[Amazake-chaya](https://www.google.com/maps/search/?api=1&query=Amazake-chaya+Hakone)**: a thatched teahouse that has served travellers on this road for over 350 years. Have amazake and mochi there.
+- **[Hakone Checkpoint (Sekisho)](https://www.google.com/maps/search/?api=1&query=Hakone+Sekisho)**: a reconstruction of the Edo checkpoint where travellers' papers were inspected. It's on the lakeshore, next to the old **cedar avenue**.
+- **[Lake Ashi](https://maps.google.com/?cid=5294609115739185867)** and the **[Hakone Shrine lakeside torii](https://www.google.com/maps/search/?api=1&query=Hakone+Shrine+Torii+of+Peace)**: Fuji over the lake on clear days.
+- 📜 **History link:** Hiroshige's *Fifty-three Stations of the Tokaido* has a Hakone print. The road we'd walk is the road in those prints.
+- **Getting there:** prices are approximate **(check)**. Train is the easier option.
+  - **By train (recommended):** buy the Odakyu *Hakone Freepass* (2-day, from Shinjuku) for ¥7,100 (~NZ$78) each. It covers the train to Hakone and back, the local buses, the lake boat and the ropeway. The **Romancecar** limited express from Shinjuku to Hakone-Yumoto takes about 85 min and costs an extra ¥1,200 (~NZ$13) each way for a reserved seat. Book it ahead. It's then about 20 min by bus to Hatajuku. Allow about 2 h door to door. **For two: about ¥19,000 (~NZ$209)** with the Romancecar both ways, or ¥14,200 (~NZ$156) on ordinary expresses, which take about 2 h to Hakone-Yumoto with a change at Odawara.
+  - **By car:** about 90 km, **1.5–2 h each way** by the Tomei Expressway and the Odawara-Atsugi Road. Expect much longer on weekends and in autumn-colour traffic. Costs: tolls about ¥2,500–4,000 each way, fuel about ¥3,000 and parking about ¥1,000–2,000. **For the car: about ¥9,000–13,000 (~NZ$100–145)**, and the lake boat (about ¥1,200, ~NZ$13 each one way) and ropeway are extra. You need an International Driving Permit (from the AA) with your NZ licence. A car also fits badly with the one-way old-road walk, because you have to come back to it.
+- **Time:** a very long day. Leave early, or better, stay a night.
 
 ### Too far for a day trip (need overnights, so probably not this trip)
 [Matsumoto Castle](https://maps.google.com/?cid=10388975450222032468) · [Takayama](https://maps.google.com/?cid=15344603428797604828) and [Hida Folk Village](https://maps.google.com/?cid=15466683148941065284) · [Shinhotaka Ropeway](https://maps.google.com/?cid=15656747577072557457) · [Shirakawa-go](https://maps.google.com/?cid=14755289620389823992) · [Kanazawa](https://maps.google.com/?cid=10228050530913903125) · [Magome](https://maps.google.com/?cid=9040534682970691322) and the Nakasendo walk

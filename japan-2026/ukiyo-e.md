@@ -37,7 +37,7 @@ Pictures are public domain; tap one for its source. See [photo credits](photos/C
 | **The Great Wave off Kanagawa** | Hokusai, *Thirty-six Views of Mt Fuji* | Out at sea off Kanagawa (today's Yokohama), looking southwest across the bay to Fuji ([pin](https://www.google.com/maps/search/?api=1&query=35.400,139.700)) | Not a place you can stand. The closest feeling is Fuji across the water from **Shichirigahama** (Kamakura day trip). And it's on the money in your wallet (see below). |
 | **Fine Wind, Clear Morning ("Red Fuji")** | Hokusai, *Thirty-six Views* | Fuji lit red by early-morning sun in late summer or early autumn. The exact viewpoint is debated; it's often placed on the Yamanashi side ([pin](https://www.google.com/maps/search/?api=1&query=35.361,138.727)) | **Kawaguchiko.** Be out at sunrise on a clear morning. By late October Fuji usually has snow, so expect pink on white (*beni-Fuji*) rather than the red of the print. |
 | **Thunderstorm Beneath the Summit ("Black Fuji")** | Hokusai, *Thirty-six Views* | Fuji's summit above the clouds, with lightning on the lower slopes ([pin](https://www.google.com/maps/search/?api=1&query=35.361,138.727)) | Any clear view of Fuji with cloud below the summit. Common at Kawaguchiko. |
-| **Sudden Shower over Shin-Ōhashi Bridge and Atake** | Hiroshige, *One Hundred Famous Views of Edo* | From above the Sumida River, looking at the Shin-Ōhashi bridge with Atake (Fukagawa) on the far bank ([pin](https://www.google.com/maps/search/?api=1&query=35.6878,139.7926)) | **Yes:** Tokyo #9 (Ryogoku). See the Sumida print walk below. Today's Shin-Ōhashi is a little downstream of the old one. |
+| **Sudden Shower over Shin-Ōhashi Bridge and Atake** | Hiroshige, *One Hundred Famous Views of Edo* | From above the Sumida River, looking at the Shin-Ōhashi bridge with Atake (Fukagawa) on the far bank ([pin](https://www.google.com/maps/search/?api=1&query=35.6878,139.7926)) | **Yes:** Tokyo #10 (Ryogoku). See the Sumida print walk below. Today's Shin-Ōhashi is a little downstream of the old one. |
 | **Plum Park in Kameido** | Hiroshige, *Edo* | A famous plum garden in Kameido, through the trunk of its "sleeping dragon" plum ([pin](https://www.google.com/maps/search/?api=1&query=35.7003,139.8288)) | The garden was lost in a 1910 flood. Kameido is 3 stops from Ryogoku. Van Gogh copied this one too. |
 | **Shōno: Driving Rain** | Hiroshige, *Fifty-three Stations of the Tōkaidō* | A post town in Mie Prefecture, travellers running uphill in a downpour ([pin](https://www.google.com/maps/search/?api=1&query=34.879,136.520)) | No, too far. |
 | **Ejiri in Suruga Province** | Hokusai, *Thirty-six Views* | Near Shizuoka: a gust of wind blows travellers' hats and papers away ([pin](https://www.google.com/maps/search/?api=1&query=35.016,138.488)) | No, too far. This is the one Jeff Wall turned into a photograph. |
@@ -75,7 +75,7 @@ Pictures are public domain; tap one for its source. See [photo credits](photos/C
 
 These are places where you can stand roughly where the artist did. The city has changed completely, but the river, bridge, hill or temple is still there. Load the print on your phone and compare.
 
-### Tokyo: the Sumida River and Ryogoku (pairs with Tokyo #9)
+### Tokyo: the Sumida River and Ryogoku (pairs with Tokyo #10)
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Fuji_seen_through_the_Mannen_bridge_at_Fukagawa.jpg"><img src="photos/ukiyoe-mannen.jpg" width="32%" alt="Under Mannen Bridge" title="Hokusai, Under Mannen Bridge at Fukagawa. Katsushika Hokusai, Public domain"></a> <a href="https://commons.wikimedia.org/wiki/File:Sunset_across_the_Ryogoku_bridge_from_the_bank_of_the_Sumida_river_at_Onmagayashi.jpg"><img src="photos/ukiyoe-onmaya.jpg" width="32%" alt="Sunset across Ryogoku Bridge" title="Hokusai, Sunset across Ryogoku Bridge from Onmayagashi. Katsushika Hokusai, Public domain"></a> <a href="https://commons.wikimedia.org/wiki/File:Fireworks_at_Ryogoku_LACMA_M.2006.136.356.jpg"><img src="photos/ukiyoe-fireworks.jpg" width="32%" alt="Fireworks at Ryogoku" title="Hiroshige, Fireworks at Ryogoku. Utagawa Hiroshige, Public domain"></a></p>
 
@@ -86,11 +86,11 @@ These are places where you can stand roughly where the artist did. The city has 
 | Hokusai, *Under Mannen Bridge at Fukagawa*: Fuji framed under a high arched bridge | **[Mannen-bashi](https://www.google.com/maps/search/?api=1&query=萬年橋+江東区)**, where the Onagi canal meets the Sumida. The bridge is now steel, but the arch and the spot are the same. The Bashō memorial garden (the haiku poet lived here) is beside it. | Hanzomon Line from Shibuya, direct to Kiyosumi-shirakawa, then 8 min walk. Or walk from Ryogoku. |
 | Hiroshige, *Sudden Shower over Shin-Ōhashi* | **[Shin-Ōhashi](https://www.google.com/maps/search/?api=1&query=新大橋+東京)** and the riverside terrace | Hamacho station (Toei Shinjuku Line), 5 min. Or on the walk below. |
 | Hokusai, *Sunset across Ryogoku Bridge from Onmayagashi* · Hiroshige, *Fireworks at Ryogoku* | **[Ryogoku Bridge](https://www.google.com/maps/search/?api=1&query=両国橋)** (by Ryogoku station). Onmayagashi is near today's **[Umaya-bashi](https://www.google.com/maps/search/?api=1&query=厩橋+台東区)**, upstream. | JR Sobu Line or Oedo Line to Ryogoku. |
-| Hokusai, *Tsukudajima in Musashi Province* | **[Tsukudajima](https://www.google.com/maps/search/?api=1&query=佃島+佃公園)**, the old fishing island at the river mouth, now among towers | The Sumida water bus (Tokyo #5) passes it on the way to Hama-rikyu. |
+| Hokusai, *Tsukudajima in Musashi Province* | **[Tsukudajima](https://www.google.com/maps/search/?api=1&query=佃島+佃公園)**, the old fishing island at the river mouth, now among towers | The Sumida water bus (Tokyo #4) passes it on the way to Hama-rikyu. |
 
 **Sumida River print walk (about 3 km, 2–3 h with the museum):** start at **Ryogoku station** (the Ryogoku Bridge prints) → **Sumida Hokusai Museum** → south along the **Sumida River Terrace** to **Shin-Ōhashi** (the rain print) → **Mannen-bashi** (the Fuji-under-the-bridge print) → **[Kiyosumi Garden](https://www.google.com/maps/search/?api=1&query=Kiyosumi+Gardens)**, a merchant's Edo-style pond garden (small fee, **check**). Finish at **Kiyosumi-shirakawa station**, where the Hanzomon Line runs direct to Shibuya. All flat, on public footpaths.
 
-### Tokyo: Asakusa, Kameido and the Skytree side (pairs with Tokyo #5)
+### Tokyo: Asakusa, Kameido and the Skytree side (pairs with Tokyo #4)
 
 <p><a href="https://commons.wikimedia.org/wiki/File:%E5%90%8D%E6%89%80%E6%B1%9F%E6%88%B8%E7%99%BE%E6%99%AF_%E6%B5%85%E8%8D%89_%E9%87%91%E9%BE%8D%E5%B1%B1-The_Kinryusan_Temple_at_Asakusa_MET_DP122116.jpg"><img src="photos/ukiyoe-kinryuzan.jpg" width="32%" alt="Kinryuzan Temple at Asakusa" title="Hiroshige, Kinryuzan Temple at Asakusa. Utagawa Hiroshige, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:Asakusa_Honganji_temple_in_th_Eastern_capital.jpg"><img src="photos/ukiyoe-honganji.jpg" width="32%" alt="Honganji Temple at Asakusa" title="Hokusai, Honganji Temple at Asakusa in Edo. Katsushika Hokusai, Public domain"></a> <a href="https://commons.wikimedia.org/wiki/File:NDL-DC_1303261-Utagawa_Hiroshige-%E5%90%8D%E6%89%80%E6%B1%9F%E6%88%B8%E7%99%BE%E6%99%AF_%E4%BA%80%E6%88%B8%E5%A4%A9%E7%A5%9E%E5%A2%83%E5%86%85-crd.jpg"><img src="photos/ukiyoe-kameido.jpg" width="32%" alt="Inside Kameido Tenjin Shrine" title="Hiroshige, Inside Kameido Tenjin Shrine. Utagawa Hiroshige, Public domain"></a></p>
 
@@ -103,7 +103,7 @@ These are places where you can stand roughly where the artist did. The city has 
 | Hiroshige, *Inside Kameido Tenjin Shrine*: wisteria and a high drum bridge over the pond | **[Kameido Tenjin](https://www.google.com/maps/search/?api=1&query=亀戸天神社)**: the drum bridges and the pond are still there. Wisteria is in May, but the shrine usually holds a **chrysanthemum festival from late October into November (check)**. | JR Sobu Line to Kameido (3 stops from Ryogoku), then 15 min walk. The Skytree is visible from the shrine. |
 | Hiroshige, *Plum Park in Kameido* | The garden is gone; a small marker stands near Kameido station | Combine with Kameido Tenjin, but only if passing. |
 
-### Tokyo: Nihonbashi and Kanda (pairs with Tokyo #4)
+### Tokyo: Nihonbashi and Kanda (pairs with Tokyo #3)
 
 <p><a href="https://commons.wikimedia.org/wiki/File:%E6%9D%B1%E6%B5%B7%E9%81%93%E4%BA%94%E5%8D%81%E4%B8%89%E6%AC%A1%E4%B9%8B%E5%86%85_%E6%97%A5%E6%9C%AC%E6%A9%8B_%E6%9C%9D%E4%B9%8B%E6%99%AF-Stations_One-_Morning_View_of_Nihonbashi_MET_DP122174.jpg"><img src="photos/ukiyoe-nihonbashi-morning.jpg" width="32%" alt="Nihonbashi: Morning View" title="Hiroshige, Nihonbashi: Morning View (Tokaido). Utagawa Hiroshige, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:NDL-DC_1303205-Utagawa_Hiroshige-%E5%90%8D%E6%89%80%E6%B1%9F%E6%88%B8%E7%99%BE%E6%99%AF_%E6%97%A5%E6%9C%AC%E6%A9%8B%E9%9B%AA%E6%99%B4-%E5%AE%89%E6%94%BF3-crd.jpg"><img src="photos/ukiyoe-nihonbashi-snow.jpg" width="32%" alt="Nihonbashi: Clearing after Snow" title="Hiroshige, Nihonbashi: Clearing after Snow. Utagawa Hiroshige, Public domain"></a> <a href="https://commons.wikimedia.org/wiki/File:A_sketch_of_the_Mitsui_shop_in_Suruga_street_in_Edo.jpg"><img src="photos/ukiyoe-mitsui.jpg" width="32%" alt="Mitsui Shop at Suruga-cho" title="Hokusai, Mitsui Shop at Suruga-cho in Edo. Katsushika Hokusai, Public domain"></a></p>
 
@@ -127,10 +127,10 @@ These are places where you can stand roughly where the artist did. The city has 
 
 | Print | Viewpoint today | Getting there |
 |---|---|---|
-| Hiroshige, *Yotsuya, Naito Shinjuku*: the famous horse's legs in the foreground of the Shinjuku post town | **[Shinjuku Gyoen, Shinjuku Gate](https://www.google.com/maps/search/?api=1&query=Shinjuku+Gyoen+Shinjuku+Gate)**: the garden was the Naito lord's estate, beside the old post town on today's Shinjuku-dori | Shinjuku-gyoemmae station (Marunouchi Line). Pairs with Tokyo #6. |
+| Hiroshige, *Yotsuya, Naito Shinjuku*: the famous horse's legs in the foreground of the Shinjuku post town | **[Shinjuku Gyoen, Shinjuku Gate](https://www.google.com/maps/search/?api=1&query=Shinjuku+Gyoen+Shinjuku+Gate)**: the garden was the Naito lord's estate, beside the old post town on today's Shinjuku-dori | Shinjuku-gyoemmae station (Marunouchi Line). Pairs with Tokyo #5. |
 | Hiroshige, *Meguro Drum Bridge and Sunset Hill*: an arched stone bridge in snow, below a steep slope | **[Taiko-bashi, Meguro](https://www.google.com/maps/search/?api=1&query=太鼓橋+目黒区)** at the foot of **[Gyōnin-zaka](https://www.google.com/maps/search/?api=1&query=行人坂+目黒)**, the "sunset hill". The bridge is modern, but the slope and the little **Daien-ji** temple (with hundreds of small stone rakan statues) are as Hiroshige knew them. | JR Yamanote Line from Shibuya to Meguro (5 min), then 5 min walk down the slope. An easy half-hour from base. |
 | Hiroshige, *Hiroo on the Furukawa River* | The Furukawa River near Hiroo, now a concrete channel under the expressway | Little survives. Skip unless passing. |
-| Hiroshige, *The Moon Pine, Ueno* | **[Kiyomizu Kannon-do](https://www.google.com/maps/search/?api=1&query=Kiyomizu+Kannon-do+Ueno)**: the pine was recreated in 2012 | Already in Tokyo #8, next to the Tokyo National Museum. |
+| Hiroshige, *The Moon Pine, Ueno* | **[Kiyomizu Kannon-do](https://www.google.com/maps/search/?api=1&query=Kiyomizu+Kannon-do+Ueno)**: the pine was recreated in 2012 | Already in Tokyo #9, next to the Tokyo National Museum. |
 
 ### Day trips and other legs
 
@@ -145,7 +145,7 @@ These are places where you can stand roughly where the artist did. The city has 
 | Print | Viewpoint | Leg of the trip |
 |---|---|---|
 | Hokusai and Hiroshige, *Shichiri Beach in Sagami Province* | **[Shichirigahama beach](https://www.google.com/maps/search/?api=1&query=Shichirigahama+Beach)**, looking west across the bay to Fuji, with Enoshima | Kamakura day trip (Tokyo #1). Enoden line to Shichirigahama station. Best on a clear afternoon. |
-| Hiroshige, *Hakone: Lake* (Tōkaidō) | The old Tōkaidō road above **Lake Ashi** | Hakone day trip (Tokyo #2): you walk this road. |
+| Hiroshige, *Hakone: Lake* (Tōkaidō) | The old Tōkaidō road above **Lake Ashi** | Hakone (see *Too big for a day trip* in the [Tokyo list](tokyo-activities.md)): you walk this road. |
 | Hokusai, *Reflection in Lake Misaka, Kai Province* | **[Tenka-chaya, Misaka Pass](https://www.google.com/maps/search/?api=1&query=Tenka+Chaya+Misaka+Pass)**, above Lake Kawaguchi | Kawaguchiko #2. One hiking bus a day, 9:50 **(check)**. |
 | Hokusai, *Mishima Pass in Kai Province*: travellers linking arms around a giant tree to measure it | Usually identified as **[Kagosaka Pass](https://www.google.com/maps/search/?api=1&query=籠坂峠)**, on the old road from Lake Yamanaka toward Gotemba **(check)** | Kawaguchiko #6 (Lake Yamanaka). On the Fujikyu bus route to Gotemba, so by bus only. Probably not worth a special trip. |
 | Hiroshige, *Ōtsuki Plain in Kai Province* (his *Thirty-six Views of Mt Fuji*) | The plain around **Otsuki**, on the old Koshu road | We pass through Otsuki on 30 Oct (Kawaguchiko #8). |
@@ -183,7 +183,7 @@ A major Hiroshige show, from a newly donated collection, in three parts with dif
 - Part 3 (*One Hundred Famous Views of Edo*) starts 25 Nov, after we leave. Sadly.
 - **Cost:** ¥1,500 (~NZ$17), which includes the museum's main collection the same day. Advance tickets have finished; buy at the door.
 - **Hours:** 9:30–17:00, **Fridays and Saturdays to 20:00**. Last entry 30 min before closing. Closed Mondays.
-- **Getting there:** Chiyoda Line from Yoyogi-koen, direct to **Nezu** (about 20 min), then a 10 min walk. Or JR to Ueno, then 10 min through Ueno Park. Pairs with Tokyo #8 (the Moon Pine is 10 min away).
+- **Getting there:** Chiyoda Line from Yoyogi-koen, direct to **Nezu** (about 20 min), then a 10 min walk. Or JR to Ueno, then 10 min through Ueno Park. Pairs with Tokyo #9 (the Moon Pine is 10 min away).
 - If you go twice (once per part), that's ¥3,000 (~NZ$34). Both parts are worth it, but Part 1 is the one to prioritise.
 
 ### 2. Sumida Hokusai Museum: *Best of the Sumida Hokusai Museum* ⭐
@@ -205,12 +205,12 @@ The museum's 10th-anniversary show of its finest works, including Hokusai's long
 ### Also worth knowing
 | Place | What | Cost | Hours | Getting there |
 |---|---|---|---|---|
-| **[Edo-Tokyo Museum](https://www.google.com/maps/search/?api=1&query=Edo-Tokyo+Museum)** (Ryogoku, Tokyo #9) | Not a print museum, but it puts the prints in context: the full-size Nihonbashi, a huge model of Ryogoku Bridge in the 1840s | ¥1,300 (~NZ$15) **(check)** | 9:30–17:30, Sat to 19:30, closed Mon | Next to the Sumida Hokusai Museum |
+| **[Edo-Tokyo Museum](https://www.google.com/maps/search/?api=1&query=Edo-Tokyo+Museum)** (Ryogoku, Tokyo #10) | Not a print museum, but it puts the prints in context: the full-size Nihonbashi, a huge model of Ryogoku Bridge in the 1840s | ¥1,300 (~NZ$15) **(check)** | 9:30–17:30, Sat to 19:30, closed Mon | Next to the Sumida Hokusai Museum |
 | **[Kawaguchiko Museum of Art](https://www.google.com/maps/search/?api=1&query=Kawaguchiko+Museum+of+Art)** | Collects art of Fuji. Autumn shows the collection *Painted Fuji* and a local painter's Fuji landscapes (to 20 Dec). Its Hokusai/Hiroshige print show **ended on 4 Oct**, so expect few or no ukiyo-e **(check)** | ¥800 (~NZ$9) | 9:30–17:00, **closed Tuesdays** (27 Oct) | Red Line sightseeing bus **(check the stop)** |
 | **[Okada Museum of Art](https://www.google.com/maps/search/?api=1&query=Okada+Museum+of+Art+Hakone)** (Hakone) | Edo-period paintings, including hand-painted works by ukiyo-e masters | ¥2,800 (~NZ$32) | 9:00–17:00. Lockers for phones and bags are compulsory | Hakone Tozan bus to Kowakien (covered by the Hakone Freepass). Only if time on the Hakone day. |
 
 ### Buying a print
-- **Jimbocho** (the old-book district, 5 min from Surugadai in Tokyo #4) has antique print shops selling real Edo-period prints, from a few thousand yen for minor works **(check)**. **[Hara Shobo](https://www.google.com/maps/search/?api=1&query=Hara+Shobo+Jimbocho)** is the best known **(check hours)**.
+- **Jimbocho** (the old-book district, 5 min from Surugadai in Tokyo #3) has antique print shops selling real Edo-period prints, from a few thousand yen for minor works **(check)**. **[Hara Shobo](https://www.google.com/maps/search/?api=1&query=Hara+Shobo+Jimbocho)** is the best known **(check hours)**.
 - **Modern hand-printed reproductions**, made with the original woodblock techniques (for example by the Adachi Foundation), are sold in museum and print shops. A good-quality Great Wave or Red Fuji costs from about ¥10,000 (~NZ$113) **(check)**.
 
 ---
