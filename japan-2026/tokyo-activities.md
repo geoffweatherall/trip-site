@@ -4,6 +4,7 @@
 **Key:** ☀️ fine-weather group · ☔ wet-weather group (works in rain) · 📷 photography · 🏛 history/museum · 🥾 walk · 🏞 views · 📜 link to a historic print or painting
 Every group here is **top** priority. Backups are at the bottom. Place names link to Google Maps.
 Background reading: [Ukiyo-e landscape prints, their viewpoints and where to see them](ukiyo-e.md).
+Audio walks, like Rick Steves' Europe walks, are listed under each group where we found one. They're GPS-triggered phone tours: download over Wi-Fi first and they play offline, so bring earphones. Near base, the [VoiceMap Tokyo](https://voicemap.me/tour/tokyo) catalogue also has *A Different Side of Shibuya: A Dogenzaka Walking Tour* and a *History and Architecture* walk from Jingumae (Meiji Jingu, Harajuku and the Yoyogi Gymnasium) **(check)**.
 Photos (tap one for its source) are from Wikimedia Commons; see [photo credits](photos/CREDITS.md).
 NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 
@@ -27,6 +28,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Tsurugaoka Hachimangu](https://www.google.com/maps/search/?api=1&query=Tsurugaoka+Hachimangu)**: the shrine of the shoguns who ruled from Kamakura in the 1100s–1300s.
 - 📜 **History link:** Hokusai's *Shichiri Beach in Sagami Province* (Thirty-six Views of Mt Fuji) shows Fuji across the bay. Stand on **[Shichirigahama beach](https://www.google.com/maps/search/?api=1&query=Shichirigahama+Beach)** (Enoden line) to see the same view, best on a clear afternoon. Hokusai's *Enoshima* print is a stop further along.
 - **Getting there:** Odakyu *Enoshima-Kamakura Freepass* from Shinjuku. The Odakyu Line runs right by the base **(check price)**. Starting at [Kamakura Station](https://maps.google.com/?cid=10126820322969569051).
+- **Audio walk:** **[Kamakura: Temples & Timeless Charm](https://wegotrip.com/kamakura-d1195/explore-kamakuras-heritage-a-self-guided-audio-tour-p10671/)** (WeGoTrip app): about 6 km, 2–3 h, GPS map, works offline once downloaded. About €10 **(check)**.
 - **Time:** full day, on a weekday.
 
 ### 2. Hakone: the old Tokaido road and Lake Ashi (day trip) 📷🏛🥾🏞📜
@@ -80,6 +82,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Sumida River water bus](https://www.google.com/maps/search/?api=1&query=Asakusa+Pier+Tokyo+Cruise)** from Asakusa downriver to **[Hama-rikyu Gardens](https://www.google.com/maps/search/?api=1&query=Hama-rikyu+Gardens)**, the shogun's seaside garden with a teahouse on the pond.
 - Optional: **[Tokyo Skytree](https://www.google.com/maps/search/?api=1&query=Tokyo+Skytree)** deck across the river (paid).
 - **Getting there:** Ginza Line from Shibuya, direct to Asakusa.
+- **Audio walk:** **[Secrets of Sensoji: A Tour of Asakusa's History, Art and Culture](https://voicemap.me/tour/tokyo/secrets-of-sensoji-temple-a-tour-of-asakusa-s-history-art-and-culture)** (VoiceMap app, by the same local company as the Nihonbashi walk in #4): 90 min, about 2 km, 34 stops. About US$15 **(check)**.
 - **Time:** full day. Ryogoku (**#9**) is 10 minutes away if the weather turns.
 
 ### 6. Views over Tokyo: free observation decks (plus Shinjuku Gyoen) 🏞📷

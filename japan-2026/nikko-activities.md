@@ -73,6 +73,7 @@ There's only time for 2–3 big days here, so this list has **8 groups**, not 10
 - **[Taiyuin](https://www.google.com/maps/search/?api=1&query=Taiyuin+Nikko)**: the mausoleum of his grandson Iemitsu. Quieter, and to many the more beautiful of the two.
 - **[Futarasan Shrine](https://www.google.com/maps/search/?api=1&query=Futarasan+Shrine+Nikko)** and **[Rinno-ji](https://www.google.com/maps/search/?api=1&query=Rinnoji+Temple+Nikko)** next door.
 - 📜 This is where the Edo period's founding shogun is buried. It links to everything Edo in Tokyo.
+- **Audio guide:** a Tripadvisor reviewer rated Toshogu's own English audio guide highly. Ask at the ticket office **(check it's still offered)**. Third-party Nikko apps exist (about US$4–5), but they're unreviewed and may need data to download.
 - **Time:** 3–4 h. Covered halls and walkways make it fine in rain.
 
 ### 7. Old Nikko main street: imperial villa and Kanaya Hotel 🏛📜
