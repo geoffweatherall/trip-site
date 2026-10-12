@@ -39,7 +39,9 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Hakone Checkpoint (Sekisho)](https://www.google.com/maps/search/?api=1&query=Hakone+Sekisho)**: a reconstruction of the Edo checkpoint where travellers' papers were inspected. It's on the lakeshore, next to the old **cedar avenue**.
 - **[Lake Ashi](https://maps.google.com/?cid=5294609115739185867)** and the **[Hakone Shrine lakeside torii](https://www.google.com/maps/search/?api=1&query=Hakone+Shrine+Torii+of+Peace)**: Fuji over the lake on clear days.
 - 📜 **History link:** Hiroshige's *Fifty-three Stations of the Tokaido* has a Hakone print. The road we'd walk is the road in those prints.
-- **Getting there:** Odakyu *Hakone Freepass* from Shinjuku. It covers the buses, the lake boat and the ropeway **(check price)**.
+- **Getting there:** prices are approximate **(check)**. Train is the easier option.
+  - **By train (recommended):** buy the Odakyu *Hakone Freepass* (2-day, from Shinjuku) for ¥7,100 (~NZ$78) each. It covers the train to Hakone and back, the local buses, the lake boat and the ropeway. The **Romancecar** limited express from Shinjuku to Hakone-Yumoto takes about 85 min and costs an extra ¥1,200 (~NZ$13) each way for a reserved seat. Book it ahead. It's then about 20 min by bus to Hatajuku. Allow about 2 h door to door. **For two: about ¥19,000 (~NZ$209)** with the Romancecar both ways, or ¥14,200 (~NZ$156) on ordinary expresses, which take about 2 h to Hakone-Yumoto with a change at Odawara.
+  - **By car:** about 90 km, **1.5–2 h each way** by the Tomei Expressway and the Odawara-Atsugi Road. Expect much longer on weekends and in autumn-colour traffic. Costs: rental car about ¥8,000–12,000 a day, tolls about ¥2,500–4,000 each way, fuel about ¥3,000 and parking about ¥1,000–2,000. **For the car: about ¥18,000–25,000 (~NZ$200–275)**, and the lake boat (about ¥1,200, ~NZ$13 each one way) and ropeway are extra. You need an International Driving Permit (from the AA) with your NZ licence. A car also fits badly with the one-way old-road walk, because you have to come back to it.
 - **Time:** long full day. Leave early.
 
 ### 3. Mt Takao (day trip) 🥾🏞📷
