@@ -46,6 +46,33 @@
       }
     });
 
+    var tpLayer = L.layerGroup().addTo(map), letter = { subway: 'M', train: 'T', bus: 'B' };
+    var tpList = document.createElement('ul');
+    tpList.className = 'tplist';
+    (c.transport || []).forEach(function (t) {
+      var tm = L.marker([t.lat, t.lng], {
+        icon: L.divIcon({ className: '', html: '<div class="tp ' + t.type + '">' + letter[t.type] + '</div>', iconSize: [22, 22], iconAnchor: [11, 11] }),
+        title: t.name, zIndexOffset: -500
+      }).bindTooltip(t.name, { permanent: true, direction: 'right', offset: [12, 0], className: 'tlabel' }).addTo(tpLayer);
+      var li = document.createElement('li');
+      li.className = t.type; li.tabIndex = 0;
+      var badge = document.createElement('b'); badge.textContent = letter[t.type];
+      li.appendChild(badge); li.appendChild(document.createTextNode(t.name));
+      var goT = function () { map.setView([t.lat, t.lng], Math.max(map.getZoom(), 15)); el.scrollIntoView({ block: 'center' }); };
+      li.addEventListener('click', goT);
+      li.addEventListener('keydown', function (e) { if (e.key === 'Enter') goT(); });
+      tpList.appendChild(li);
+    });
+    if (c.transport && c.transport.length) {
+      L.control.layers(null, { 'Stations and bus stops': tpLayer }, { collapsed: false, position: 'topright' }).addTo(map);
+      var h = document.createElement('h4');
+      h.textContent = 'Stations and bus stops';
+      legend.parentNode.insertBefore(h, legend.nextSibling);
+      legend.parentNode.insertBefore(tpList, h.nextSibling);
+    }
+    function labels() { el.classList.toggle('zl', map.getZoom() >= 14); }
+    map.on('zoomend', labels);
+
     var s = c.stay;
     L.marker(s, {
       icon: L.divIcon({ className: '', html: '<div class="pin stay">★</div>', iconSize: [30, 30], iconAnchor: [15, 15] }),
@@ -56,6 +83,7 @@
 
     function fit(pts) { map.fitBounds(pts, { padding: [30, 30] }); }
     fit(all);
+    labels();
 
     if (central.length > 2 && central.length < all.length) {
       var bar = document.createElement('div');

@@ -8,3 +8,17 @@
 .maplegend { columns: 2 280px; padding-left: 28px; margin-bottom: 24px; }
 .maplegend li { cursor: pointer; break-inside: avoid; margin: 2px 0; }
 .maplegend li:hover, .maplegend li:focus { text-decoration: underline; }
+
+.tp { width: 22px; height: 22px; line-height: 18px; text-align: center; font: 700 12px/18px system-ui, sans-serif; color: #fff; border: 2px solid #fff; box-shadow: 0 1px 3px rgba(0,0,0,.5); box-sizing: border-box; }
+.tp.subway { background: #0f766e; border-radius: 50%; }
+.tp.train { background: #334155; border-radius: 3px; }
+.tp.bus { background: #7e22ce; border-radius: 11px; }
+.leaflet-tooltip.tlabel { font: 600 11px system-ui, sans-serif; padding: 1px 5px; }
+.tripmap:not(.zl) .leaflet-tooltip.tlabel { display: none; }
+.tplist { columns: 2 280px; padding-left: 0; list-style: none; margin: 0 0 24px; font-size: 14px; }
+.tplist li { cursor: pointer; break-inside: avoid; margin: 2px 0; }
+.tplist li:hover, .tplist li:focus { text-decoration: underline; }
+.tplist b { display: inline-block; width: 20px; height: 20px; line-height: 20px; text-align: center; color: #fff; font-size: 11px; margin-right: 6px; vertical-align: middle; }
+.tplist .subway b { background: #0f766e; border-radius: 50%; }
+.tplist .train b { background: #334155; border-radius: 3px; }
+.tplist .bus b { background: #7e22ce; border-radius: 10px; }

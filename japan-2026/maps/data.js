@@ -2,8 +2,34 @@ window.TRIP_MAPS = {
  "tokyo": {
   "title": "Tokyo",
   "stay": [
-   35.66,
-   139.69
+   35.66379,
+   139.69045
+  ],
+  "transport": [
+   {
+    "name": "Yoyogi-koen Station (Chiyoda Line)",
+    "type": "subway",
+    "lat": 35.6683,
+    "lng": 139.69156
+   },
+   {
+    "name": "Shibuya Station (Ginza, Hanzomon and Fukutoshin lines)",
+    "type": "subway",
+    "lat": 35.65971,
+    "lng": 139.7022
+   },
+   {
+    "name": "Meiji-jingumae Station (Chiyoda and Fukutoshin lines)",
+    "type": "subway",
+    "lat": 35.66926,
+    "lng": 139.70392
+   },
+   {
+    "name": "Yoyogi-Hachiman Station (Odakyu Line, not a subway)",
+    "type": "train",
+    "lat": 35.66943,
+    "lng": 139.68859
+   }
   ],
   "places": [
    {
@@ -102,8 +128,52 @@ window.TRIP_MAPS = {
  "nikko": {
   "title": "Nikko",
   "stay": [
-   36.75,
-   139.62
+   36.74692,
+   139.62149
+  ],
+  "transport": [
+   {
+    "name": "JR Nikko Station (JR trains; Tobu buses)",
+    "type": "train",
+    "lat": 36.74708,
+    "lng": 139.62214
+   },
+   {
+    "name": "Tobu-Nikko Station (Tobu trains; Tobu buses)",
+    "type": "train",
+    "lat": 36.74764,
+    "lng": 139.61888
+   },
+   {
+    "name": "Shimo-Imaichi Station (Tobu junction for Kinugawa)",
+    "type": "train",
+    "lat": 36.72563,
+    "lng": 139.69279
+   },
+   {
+    "name": "Kinugawa-Onsen Station (for Edo Wonderland)",
+    "type": "train",
+    "lat": 36.82371,
+    "lng": 139.71689
+   },
+   {
+    "name": "Shinkyo bus stop",
+    "type": "bus",
+    "lat": 36.75311,
+    "lng": 139.60529
+   },
+   {
+    "name": "Chuzenji Onsen bus stop (Lake Chuzenji)",
+    "type": "bus",
+    "lat": 36.73915,
+    "lng": 139.49966
+   },
+   {
+    "name": "Yumoto Onsen bus stop (Lake Yunoko)",
+    "type": "bus",
+    "lat": 36.80671,
+    "lng": 139.42307
+   }
   ],
   "places": [
    {
@@ -167,8 +237,52 @@ window.TRIP_MAPS = {
  "kawaguchiko": {
   "title": "Kawaguchiko",
   "stay": [
-   35.5,
-   138.77
+   35.499,
+   138.76967
+  ],
+  "transport": [
+   {
+    "name": "Kawaguchiko Station (Fujikyu line; main bus hub)",
+    "type": "train",
+    "lat": 35.49825,
+    "lng": 138.76926
+   },
+   {
+    "name": "Shimoyoshida Station (for Chureito Pagoda)",
+    "type": "train",
+    "lat": 35.49772,
+    "lng": 138.80352
+   },
+   {
+    "name": "Fujisan Station (Fujikyu line)",
+    "type": "train",
+    "lat": 35.48383,
+    "lng": 138.7953
+   },
+   {
+    "name": "Otsuki Station (JR Chuo to Fujikyu line)",
+    "type": "train",
+    "lat": 35.61348,
+    "lng": 138.9432
+   },
+   {
+    "name": "Saruhashi Station (JR Chuo)",
+    "type": "train",
+    "lat": 35.61283,
+    "lng": 138.96775
+   },
+   {
+    "name": "Kofu Station (JR Chuo)",
+    "type": "train",
+    "lat": 35.66737,
+    "lng": 138.56906
+   },
+   {
+    "name": "Oshino Hakkai bus stop",
+    "type": "bus",
+    "lat": 35.45896,
+    "lng": 138.8307
+   }
   ],
   "places": [
    {
