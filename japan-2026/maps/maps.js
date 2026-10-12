@@ -85,7 +85,7 @@
     fit(all);
     labels();
 
-    if (central.length > 2 && central.length < all.length) {
+    if (city === 'tokyo' && central.length > 2 && central.length < all.length) {
       var bar = document.createElement('div');
       bar.className = 'mapviews';
       [['Whole region (day trips too)', all], ['Central Tokyo', central]].forEach(function (v) {

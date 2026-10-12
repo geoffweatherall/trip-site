@@ -356,5 +356,85 @@ window.TRIP_MAPS = {
     "weather": "wet"
    }
   ]
+ },
+ "modelshops": {
+  "title": "Model shops",
+  "stay": [
+   35.66379,
+   139.69045
+  ],
+  "transport": [],
+  "places": [
+   {
+    "n": 1,
+    "name": "TamTam Hobby Shop (Akihabara)",
+    "lat": 35.7032259,
+    "lng": 139.7715289,
+    "weather": "shop"
+   },
+   {
+    "n": 2,
+    "name": "Yodobashi Camera Akiba (Akihabara)",
+    "lat": 35.698917,
+    "lng": 139.774798,
+    "weather": "shop"
+   },
+   {
+    "n": 3,
+    "name": "Yellow Submarine (Hobby Base) (Akihabara)",
+    "lat": 35.6979138,
+    "lng": 139.771902,
+    "weather": "shop"
+   },
+   {
+    "n": 4,
+    "name": "Volks Akihabara Hobby Paradise 2 (Akihabara)",
+    "lat": 35.700043,
+    "lng": 139.7716478,
+    "weather": "shop"
+   },
+   {
+    "n": 5,
+    "name": "Leonardo LG (and Leonardo ET) (Akihabara)",
+    "lat": 35.7035935,
+    "lng": 139.7731718,
+    "weather": "shop"
+   },
+   {
+    "n": 6,
+    "name": "BicCamera Yurakucho (Yurakucho / Ginza)",
+    "lat": 35.6753814,
+    "lng": 139.7629088,
+    "weather": "shop"
+   },
+   {
+    "n": 7,
+    "name": "Joshin Oji (Oji)",
+    "lat": 35.7515894,
+    "lng": 139.7444862,
+    "weather": "shop"
+   },
+   {
+    "n": 8,
+    "name": "Tamiya Plamodel Factory (Shimbashi)",
+    "lat": 35.6648931,
+    "lng": 139.7546255,
+    "weather": "shop"
+   },
+   {
+    "n": 9,
+    "name": "Yesabu (Akihabara)",
+    "lat": 35.6979149,
+    "lng": 139.7719571,
+    "weather": "shop"
+   },
+   {
+    "n": 10,
+    "name": "Surugaya Plastic Model Store (Akihabara)",
+    "lat": 35.6997895,
+    "lng": 139.7713481,
+    "weather": "shop"
+   }
+  ]
  }
 };

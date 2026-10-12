@@ -6,6 +6,7 @@ Activity ideas for each place we're visiting, split into fine-weather and wet-we
 - [Nikko](nikko-activities.md)
 - [Kawaguchiko (Fuji Five Lakes)](kawaguchiko-activities.md)
 - [Maps of each place](maps.md): numbered pins for every group
+- [Model shops](model-shops.md): hobby and plastic-model shops, with a map
 
 **Guides**
 - [Ukiyo-e: Japan's landscape prints](ukiyo-e.md): Hokusai and Hiroshige, the viewpoints near our route, and where to see the prints
