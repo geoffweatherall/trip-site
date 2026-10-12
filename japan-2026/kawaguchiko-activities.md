@@ -17,7 +17,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 
 ## ☀️ Fine-weather groups
 
-### 1. Chureito Pagoda and Fujiyoshida 📷🏞🏛
+### <a id="kawaguchiko-1"></a>1. Chureito Pagoda and Fujiyoshida 📷🏞🏛
 <p><a href="https://commons.wikimedia.org/wiki/File:12-Chureito-pagoda-and-Mount-Fuji-Japan_(29677439878).jpg"><img src="photos/kawaguchiko-1a.jpg" width="32%" alt="Chureito Pagoda with Fuji in autumn" title="Chureito Pagoda with Fuji in autumn. Photo: Dang Son, CC0"></a> <a href="https://commons.wikimedia.org/wiki/File:-i---i-_(53076133649).jpg"><img src="photos/kawaguchiko-1b.jpg" width="32%" alt="Fuji at the end of Honcho Street" title="Fuji at the end of Honcho Street. Photo: Vitor Coelho Nisida from São Paulo, Brasil, Public domain"></a> <a href="https://commons.wikimedia.org/wiki/File:Kitaguchi_Hongu_Fuji_Sengen_jinja_Torii.jpg"><img src="photos/kawaguchiko-1c.jpg" width="32%" alt="The torii at Kitaguchi Hongu Fuji Sengen Shrine" title="The torii at Kitaguchi Hongu Fuji Sengen Shrine. Photo: 江戸村のとくぞう, CC BY-SA 4.0"></a></p>
 
 *Chureito Pagoda with Fuji in autumn · Fuji at the end of Honcho Street · The torii at Kitaguchi Hongu Fuji Sengen Shrine*
@@ -28,7 +28,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - Optional: **[Fujisan World Heritage Center](https://www.google.com/maps/search/?api=1&query=Fujisan+World+Heritage+Center+Fujiyoshida)**, a free museum on Fuji's culture and pilgrimage.
 - **Getting there:** Fujikyu train to Shimoyoshida, then on to Fujisan or Fujiyoshida stations.
 
-### 2. Hokusai's viewpoint: Misaka Pass (Tenka-chaya) 📜🏞📷🥾
+### <a id="kawaguchiko-2"></a>2. Hokusai's viewpoint: Misaka Pass (Tenka-chaya) 📜🏞📷🥾
 <p><a href="https://commons.wikimedia.org/wiki/File:The_Fuji_reflects_in_Lake_Kawaguchi,_seen_from_the_Misaka_pass_in_the_Kai_province.jpg"><img src="photos/kawaguchiko-2a.jpg" width="32%" alt="Hokusai, Reflection in Lake Misaka, Kai Province" title="Hokusai, Reflection in Lake Misaka, Kai Province. Photo: Katsushika Hokusai, Public domain"></a></p>
 
 *Hokusai, Reflection in Lake Misaka, Kai Province*
@@ -37,7 +37,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **Getting there:** a hiking bus from Kawaguchiko Station takes about 28 min. **It runs only once a day, at 9:50 (check).** Plan how to get back before going: there are walking routes down, or a taxi.
 - Stronger walkers continue to Mt Kurodake and down to the north shore. That's 4–5 h, **probably more than we want**.
 
-### 3. North shore: Oishi Park, Kubota Museum and the Momiji Corridor 📷🏞🏛
+### <a id="kawaguchiko-3"></a>3. North shore: Oishi Park, Kubota Museum and the Momiji Corridor 📷🏞🏛
 <p><a href="https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Oishi_Park.jpg"><img src="photos/kawaguchiko-3a.jpg" width="32%" alt="Fuji across the lake from Oishi Park" title="Fuji across the lake from Oishi Park. Photo: Alpsdake, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:%E6%B2%B3%E5%8F%A3%E6%B9%96%E7%95%94%E3%82%82%E3%81%BF%E3%81%98%E5%9B%9E%E5%BB%8A_-_panoramio_(1).jpg"><img src="photos/kawaguchiko-3b.jpg" width="32%" alt="The Momiji Corridor" title="The Momiji Corridor. Photo: 小林俊通, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Itchiku_Kubota_Art_Museum_2018c.jpg"><img src="photos/kawaguchiko-3c.jpg" width="32%" alt="The Itchiku Kubota Art Museum" title="The Itchiku Kubota Art Museum. Photo: 江戸村のとくぞう, CC BY-SA 4.0"></a></p>
 
 *Fuji across the lake from Oishi Park · The Momiji Corridor · The Itchiku Kubota Art Museum*
@@ -48,7 +48,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - Optional: **[Kawaguchiko Music Forest Museum](https://www.google.com/maps/search/?api=1&query=Kawaguchiko+Music+Forest+Museum)**, antique music boxes in a European-style village.
 - **Getting there:** Red bus.
 
-### 4. Around the lake by the station: ropeway, Yagizaki Park and a bike ride 🏞🥾📷
+### <a id="kawaguchiko-4"></a>4. Around the lake by the station: ropeway, Yagizaki Park and a bike ride 🏞🥾📷
 <p><a href="https://commons.wikimedia.org/wiki/File:KachikachiyamaRopeway.JPG"><img src="photos/kawaguchiko-4a.jpg" width="32%" alt="Lake Kawaguchi from the ropeway" title="Lake Kawaguchi from the ropeway. Photo: Ippukucho, CC BY 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Kachi_Kachi_Ropeway_(16217350765).jpg"><img src="photos/kawaguchiko-4b.jpg" width="32%" alt="The ropeway in autumn" title="The ropeway in autumn. Photo: redlegsfan21, CC BY-SA 2.0"></a></p>
 
 *Lake Kawaguchi from the ropeway · The ropeway in autumn*
@@ -58,7 +58,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **Rental bike** along the flat east and north shore.
 - **When:** good for the arrival afternoon (26 Oct) or the checkout morning (30 Oct).
 
-### 5. West lakes: Panorama-dai hike and the ¥1,000-note view 🥾🏞📷
+### <a id="kawaguchiko-5"></a>5. West lakes: Panorama-dai hike and the ¥1,000-note view 🥾🏞📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_panoramadai.jpg"><img src="photos/kawaguchiko-5a.jpg" width="32%" alt="Fuji from Panorama-dai" title="Fuji from Panorama-dai. Photo: Alpsdake, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Lake_Motosu03.jpg"><img src="photos/kawaguchiko-5b.jpg" width="32%" alt="Fuji reflected in Lake Motosu" title="Fuji reflected in Lake Motosu. Photo: Captain76:Nikon D90+TAMRON SP10-24mm, CC BY-SA 3.0"></a></p>
 
 *Fuji from Panorama-dai · Fuji reflected in Lake Motosu*
@@ -67,7 +67,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Lake Motosu ¥1,000-note viewpoint](https://www.google.com/maps/search/?api=1&query=Lake+Motosu+1000+yen+bill+view+point)**: the view of Fuji printed on the ¥1,000 note.
 - **Getting there:** Blue bus, which only runs every 1–2 hours, so **plan around the timetable**.
 
-### 6. Ishiwariyama, Oshino Hakkai and Lake Yamanaka 🥾🏛📷
+### <a id="kawaguchiko-6"></a>6. Ishiwariyama, Oshino Hakkai and Lake Yamanaka 🥾🏛📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Oshino-Hakkai-Nakaike.jpg"><img src="photos/kawaguchiko-6a.jpg" width="32%" alt="Oshino Hakkai" title="Oshino Hakkai. Photo: MaedaAkihiko, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Ishiwari_shrine_and_fissured_rock_with_shimenawa_-_Feb_26,_2020.jpg"><img src="photos/kawaguchiko-6b.jpg" width="32%" alt="Ishiwari Shrine&#x27;s split rock" title="Ishiwari Shrine&#x27;s split rock. Photo: Big Ben in Japan, CC BY-SA 2.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Yamanaka_1995-7-30.jpg"><img src="photos/kawaguchiko-6c.jpg" width="32%" alt="Fuji over Lake Yamanaka" title="Fuji over Lake Yamanaka. Photo: Alpsdake, CC0"></a></p>
 
 *Oshino Hakkai · Ishiwari Shrine's split rock · Fuji over Lake Yamanaka*
@@ -77,7 +77,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Lake Yamanaka](https://maps.google.com/?cid=17189721498507637575)**: the largest of the lakes. Ceramic shop **[碧工房](https://maps.google.com/?cid=133438621367350114)**.
 - **Getting there:** Fujikko bus.
 
-### 7. Kawaguchi Asama Shrine and the "torii in the sky" 🏛📷🏞
+### <a id="kawaguchiko-7"></a>7. Kawaguchi Asama Shrine and the "torii in the sky" 🏛📷🏞
 <p><a href="https://commons.wikimedia.org/wiki/File:Kawaguchi-asama-jinja_haiden_and_sugi_(1).JPG"><img src="photos/kawaguchiko-7a.jpg" width="32%" alt="Kawaguchi Asama Shrine and its giant cedars" title="Kawaguchi Asama Shrine and its giant cedars. Photo: Saigen Jiro, CC0"></a></p>
 
 *Kawaguchi Asama Shrine and its giant cedars*
@@ -86,7 +86,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Haruka-mia (torii in the sky)](https://www.google.com/maps/search/?api=1&query=Kawaguchi+Asama+Shrine+Haruka-mia+Tenku+no+Torii)**: a torii on the hillside above, framing Fuji and the lake. A popular photo spot.
 - **[Haha-no-Shirataki Falls](https://www.google.com/maps/search/?api=1&query=Haha+no+Shirataki+Falls)**: a short forest walk from the shrine area.
 
-### 8. Saruhashi "Monkey Bridge", on the way back to Tokyo 📜🏛📷
+### <a id="kawaguchiko-8"></a>8. Saruhashi "Monkey Bridge", on the way back to Tokyo 📜🏛📷
 <p><a href="https://commons.wikimedia.org/wiki/File:Saruhashi-Otsuki-Yamanashi.JPG"><img src="photos/kawaguchiko-8a.jpg" width="32%" alt="Saruhashi in autumn" title="Saruhashi in autumn. Photo: NY066, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Saruhashi_-02.jpg"><img src="photos/kawaguchiko-8b.jpg" width="32%" alt="The cantilevered beams under Saruhashi" title="The cantilevered beams under Saruhashi. Photo: Aimaimyi, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Kai_Province,_Monkey_Bridge_(5765353809).jpg"><img src="photos/kawaguchiko-8c.jpg" width="32%" alt="Hiroshige, Monkey Bridge in Kai Province" title="Hiroshige, Monkey Bridge in Kai Province. Photo: thesandiegomuseumofartcollection, Public domain"></a></p>
 
 *Saruhashi in autumn · The cantilevered beams under Saruhashi · Hiroshige, Monkey Bridge in Kai Province*
@@ -98,7 +98,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 
 ## ☔ Wet-weather groups
 
-### 9. Iyashi no Sato Nenba and the lava caves 🏛📷🥾
+### <a id="kawaguchiko-9"></a>9. Iyashi no Sato Nenba and the lava caves 🏛📷🥾
 <p><a href="https://commons.wikimedia.org/wiki/File:Iyashinosato_village_04.jpg"><img src="photos/kawaguchiko-9a.jpg" width="32%" alt="Iyashi no Sato Nenba&#x27;s thatched houses with Fuji" title="Iyashi no Sato Nenba&#x27;s thatched houses with Fuji. Photo: Davide Mauro, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Icicle_in_Narusawa_Ice_Cave.jpg"><img src="photos/kawaguchiko-9b.jpg" width="32%" alt="Ice in Narusawa Ice Cave" title="Ice in Narusawa Ice Cave. Photo: Osumi Akari, CC BY-SA 4.0"></a> <a href="https://commons.wikimedia.org/wiki/File:Fugaku_fuketsu_-_Walking_in_the_cave.jpg"><img src="photos/kawaguchiko-9c.jpg" width="32%" alt="Inside Fugaku Wind Cave, a lava tube" title="Inside Fugaku Wind Cave, a lava tube. Photo: Yoshi Canopus, CC BY-SA 4.0"></a></p>
 
 *Iyashi no Sato Nenba's thatched houses with Fuji · Ice in Narusawa Ice Cave · Inside Fugaku Wind Cave, a lava tube*
@@ -107,7 +107,7 @@ NZ$ prices are approximate, at ¥1,000 ≈ NZ$11 (rate on 9 Oct 2026).
 - **[Fugaku Wind Cave](https://www.google.com/maps/search/?api=1&query=Fugaku+Wind+Cave)** and **[Narusawa Ice Cave](https://www.google.com/maps/search/?api=1&query=Narusawa+Ice+Cave)**: short visits into lava caves, linked by an easy walk through the Aokigahara forest (20–30 min). The forest is atmospheric in mist.
 - **Getting there:** Green bus.
 
-### 10. Kofu: Jomon archaeology, Takeda Shingen and pottery (day trip) 🏛📜
+### <a id="kawaguchiko-10"></a>10. Kofu: Jomon archaeology, Takeda Shingen and pottery (day trip) 🏛📜
 <p><a href="https://commons.wikimedia.org/wiki/File:Late_Jomon_clay_head_Shidanai_Iwateken_1500BCE_1000BCE.jpg"><img src="photos/kawaguchiko-10a.jpg" width="32%" alt="A Jomon clay face, about 3,000 years old (from northern Japan; similar pieces are in the museum)" title="A Jomon clay face, about 3,000 years old (from northern Japan; similar pieces are in the museum). Photo: PHGCOM, CC BY-SA 3.0"></a> <a href="https://commons.wikimedia.org/wiki/File:KofuTakedaJinja3.jpg"><img src="photos/kawaguchiko-10b.jpg" width="32%" alt="Takeda Shrine, on the site of Takeda Shingen&#x27;s home" title="Takeda Shrine, on the site of Takeda Shingen&#x27;s home. Photo: unknown, Public domain"></a></p>
 
 *A Jomon clay face, about 3,000 years old (from northern Japan; similar pieces are in the museum) · Takeda Shrine, on the site of Takeda Shingen's home*

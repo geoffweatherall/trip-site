@@ -31,6 +31,11 @@
       var a = document.createElement('a');
       a.href = gmaps(p); a.target = '_blank'; a.rel = 'noopener'; a.textContent = 'Open in Google Maps';
       box.appendChild(b); box.appendChild(document.createElement('br')); box.appendChild(a);
+      if (p.href) {
+        var more = document.createElement('a');
+        more.href = p.href; more.textContent = 'Details in the list'; more.style.marginLeft = '10px';
+        box.appendChild(document.createTextNode(' · ')); box.appendChild(more);
+      }
       m.bindPopup(box);
       markers[p.n] = m;
       all.push([p.lat, p.lng]);
@@ -42,6 +47,12 @@
         var go = function () { map.setView(m.getLatLng(), Math.max(map.getZoom(), 13)); m.openPopup(); el.scrollIntoView({ block: 'center' }); };
         li.addEventListener('click', go);
         li.addEventListener('keydown', function (e) { if (e.key === 'Enter') go(); });
+        if (p.href) {
+          var d = document.createElement('a');
+          d.href = p.href; d.textContent = ' details \u2192'; d.style.fontSize = '0.9em';
+          d.addEventListener('click', function (e) { e.stopPropagation(); });
+          li.appendChild(d);
+        }
         legend.appendChild(li);
       }
     });
