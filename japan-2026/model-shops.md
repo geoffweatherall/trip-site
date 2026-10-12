@@ -20,7 +20,7 @@ Plastic-model and hobby shops for Tokyo. Numbers 1 to 7 come from the *2026-japa
 | 6 | **BicCamera Yurakucho** | Yurakucho / Ginza | Large hobby section and plastic models | Yes | By Yurakucho Station. | Your list |
 | 7 | **Joshin Oji** | Oji | Suburban hobby shop with standard Japanese kits | Yes | By Oji Station, north of central Tokyo. | Your list |
 | 8 | **Tamiya Plamodel Factory** | Shimbashi | Almost the whole current Tamiya range, plus tools, paints, a build space and a café | Check | About 5 min walk from Shimbashi Station or 7 min from Uchisaiwaicho. Open daily, 11:00–20:00 on weekdays and 10:00–19:00 on weekends and holidays (check). Free entry. | Web search |
-| 9 | **Yesabu** | Akihabara | A wide selection of scale and character kits | Check | Inside Akihabara Radio Kaikan (the pin is the building). | Web search |
+| 9 | **Yesabu** | Akihabara | A wide selection of scale and character kits | Check | Inside Akihabara Radio Kaikan (the pin is the building). "Yesabu" is also a common nickname for the Yellow Submarine chain (#3), so this may be the same shop **(check)**. | Web search |
 | 10 | **Surugaya Plastic Model Store** | Akihabara | New and used kits, mostly character kits, including out-of-print ones | Check | Kyoeki Sotokanda Building. The pin is approximate. | Web search |
 
 Tax-free means foreign visitors can shop without consumption tax (bring your passport). "Check" means I couldn't confirm it. Opening hours and stock change, so check before you go.
